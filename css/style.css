@@ -16,7 +16,7 @@ body::-webkit-scrollbar {
 }
 
 .top-view {
-  background-image: url("./newyork.jpg");
+  background-image: url("./images/newyork.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
